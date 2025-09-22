@@ -66,6 +66,9 @@ END
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="1067" height="581" alt="Screenshot 2025-09-21 213037" src="https://github.com/user-attachments/assets/4342e488-eb5a-4531-a042-c5f180f17c22" />
+
 <img width="1089" height="631" alt="Screenshot 2025-09-21 210612" src="https://github.com/user-attachments/assets/28fdb04b-790d-49f3-8991-31899a5a3e4f" />
 
 
@@ -118,6 +121,8 @@ END
 ![WhatsApp Image 2025-09-21 at 20 24 08_3bd6e813](https://github.com/user-attachments/assets/f5f0c1ef-d580-49fd-818d-4932cad348d3)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="652" height="424" alt="Screenshot 2025-09-21 213705" src="https://github.com/user-attachments/assets/25294c8d-f681-4429-a637-5db0f00b509a" />
+
 <img width="945" height="521" alt="Screenshot 2025-08-21 210113" src="https://github.com/user-attachments/assets/b9e0c868-7a4e-4828-a458-96d68d3ecae9" />
 
 
@@ -171,6 +176,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="705" height="453" alt="Screenshot 2025-09-21 214730" src="https://github.com/user-attachments/assets/082f52a7-5119-406a-8bc1-7668b84ae271" />
+
 <img width="1108" height="654" alt="Screenshot 2025-08-21 211955" src="https://github.com/user-attachments/assets/099d7b1c-5c41-4112-9f2f-d335c2da7d31" />
 
 
@@ -209,14 +217,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|          1205           |          01              |
+|          1206           |          00              |
+|          1207           |          00              |
+|          1208           |          00              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 21 25 07_7662ee8e](https://github.com/user-attachments/assets/d9f86b98-bbbc-4778-a32e-621e16c8a102)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="837" height="604" alt="Screenshot 2025-09-21 211648" src="https://github.com/user-attachments/assets/f5f98fde-94a6-4abb-b741-7f229c598f67" />
+
+<img width="1093" height="612" alt="Screenshot 2025-09-21 212139" src="https://github.com/user-attachments/assets/bbd0eeea-9cd4-487b-8cd7-f7fc8c6e5ac7" />
 
 
 
